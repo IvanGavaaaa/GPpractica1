@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author Fermín Ortega Domínguez
  */
 public class HundirlaFlota {
-    public static String ejemplo;
+    public static String ejemplo2;
     public static String[] reglas= new String[11];
     public static String[][] tablero= new String[11][11];
     public static ArrayList<String> ocupadas=new ArrayList<String>();
