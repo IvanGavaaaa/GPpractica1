@@ -1,1 +1,1 @@
-#Tipo1
+#Tipo2 Estudiante A
