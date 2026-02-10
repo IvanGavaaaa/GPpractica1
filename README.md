@@ -5,3 +5,4 @@ Habituarnos al ciclo de trabajo con Git
 Tipo 2 Estudiante B
 >>>>>>> 392ed7dc5a1957637f8df408380734c50108444d
 Más cambios Tipo 3
+Tipo 4 , pero no es un error
