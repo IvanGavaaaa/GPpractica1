@@ -1,4 +1,5 @@
 
+>>>>>>> 4a13f93d530609f6c2b127725e5448c0f14b3770
 #Resumen de la practica
 Habituarnos al ciclo de trabajo con Git
 Tipo 2 Estudiante B
